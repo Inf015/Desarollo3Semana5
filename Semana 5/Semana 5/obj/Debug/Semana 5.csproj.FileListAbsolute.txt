@@ -1,0 +1,20 @@
+C:\Users\olive\source\Desarrollo 3\Semana 5\Semana 5\bin\Debug\Log4net.mdf
+C:\Users\olive\source\Desarrollo 3\Semana 5\Semana 5\bin\Debug\Log4net_log.ldf
+C:\Users\olive\source\Desarrollo 3\Semana 5\Semana 5\bin\Debug\Lgbtq+.mdf
+C:\Users\olive\source\Desarrollo 3\Semana 5\Semana 5\bin\Debug\Lgbtq+_log.ldf
+C:\Users\olive\source\Desarrollo 3\Semana 5\Semana 5\bin\Debug\log4net.config
+C:\Users\olive\source\Desarrollo 3\Semana 5\Semana 5\bin\Debug\Semana 5.exe.config
+C:\Users\olive\source\Desarrollo 3\Semana 5\Semana 5\bin\Debug\Semana 5.exe
+C:\Users\olive\source\Desarrollo 3\Semana 5\Semana 5\bin\Debug\Semana 5.pdb
+C:\Users\olive\source\Desarrollo 3\Semana 5\Semana 5\bin\Debug\EntityFramework.dll
+C:\Users\olive\source\Desarrollo 3\Semana 5\Semana 5\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\olive\source\Desarrollo 3\Semana 5\Semana 5\bin\Debug\log4net.dll
+C:\Users\olive\source\Desarrollo 3\Semana 5\Semana 5\bin\Debug\EntityFramework.xml
+C:\Users\olive\source\Desarrollo 3\Semana 5\Semana 5\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\olive\source\Desarrollo 3\Semana 5\Semana 5\bin\Debug\log4net.xml
+C:\Users\olive\source\Desarrollo 3\Semana 5\Semana 5\obj\Debug\Semana 5.csproj.AssemblyReference.cache
+C:\Users\olive\source\Desarrollo 3\Semana 5\Semana 5\obj\Debug\Semana 5.csproj.SuggestedBindingRedirects.cache
+C:\Users\olive\source\Desarrollo 3\Semana 5\Semana 5\obj\Debug\Semana 5.csproj.CoreCompileInputs.cache
+C:\Users\olive\source\Desarrollo 3\Semana 5\Semana 5\obj\Debug\Semana 5.csproj.CopyComplete
+C:\Users\olive\source\Desarrollo 3\Semana 5\Semana 5\obj\Debug\Semana 5.exe
+C:\Users\olive\source\Desarrollo 3\Semana 5\Semana 5\obj\Debug\Semana 5.pdb

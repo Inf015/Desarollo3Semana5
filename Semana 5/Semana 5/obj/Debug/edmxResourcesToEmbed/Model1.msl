@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ModelStoreContainer" CdmEntityContainer="Entities">
+    <EntitySetMapping Name="Personas">
+      <EntityTypeMapping TypeName="Model.Personas">
+        <MappingFragment StoreEntitySet="Personas">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Nombes" ColumnName="Nombes" />
+          <ScalarProperty Name="Apellidos" ColumnName="Apellidos" />
+          <ScalarProperty Name="Telefono" ColumnName="Telefono" />
+          <ScalarProperty Name="Orientación_Sexual" ColumnName="Orientación Sexual" />
+          <ScalarProperty Name="Estado_Civil" ColumnName="Estado Civil" />
+          <ScalarProperty Name="Fecha_Inscripcion" ColumnName="Fecha Inscripcion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="ppInsertPersona" FunctionName="Model.Store.ppInsertPersona">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="Model.ppInsertPersona_Result">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Nombes" ColumnName="Nombes" />
+          <ScalarProperty Name="Apellidos" ColumnName="Apellidos" />
+          <ScalarProperty Name="Telefono" ColumnName="Telefono" />
+          <ScalarProperty Name="Orientación_Sexual" ColumnName="Orientación Sexual" />
+          <ScalarProperty Name="Estado_Civil" ColumnName="Estado Civil" />
+          <ScalarProperty Name="Fecha_Inscripcion" ColumnName="Fecha Inscripcion" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+  </EntityContainerMapping>
+</Mapping>
